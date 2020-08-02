@@ -1,4 +1,6 @@
-# -japanese only
+# README
+
+-japanese only
 
 実務に向けた実行ファイルで。言語はpython
 
